@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Discord Updater
+Comment=Check and update Discord to the latest version
+Exec=/opt/discord-updater/discord-updater.sh
+Icon=discord-updater
+Terminal=true
+Type=Application
+Categories=Utility;Network;
